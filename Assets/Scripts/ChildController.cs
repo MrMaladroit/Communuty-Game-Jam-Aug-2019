@@ -72,6 +72,7 @@ public class ChildController : MonoBehaviour
             Debug.Log("Thank you!");
         }
         playerInventory.RemoveItem();
+        SetDesire();
     }
 
     /*
