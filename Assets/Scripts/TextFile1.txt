@@ -1,0 +1,5 @@
+﻿Desires pickers for children
+Desires checker for children
+Resource points on map
+Text fields for resource points
+
